@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@300;400;600;700&family=Inter:wght@300;400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans JP", "Inter", sans-serif;
+  --font-serif: "Cormorant Garamond", "Noto Serif JP", serif;
+  --color-gold-50: #fcf9f2;
+  --color-gold-100: #f6ebd5;
+  --color-gold-200: #ebd1a0;
+  --color-gold-300: #deb266;
+  --color-gold-400: #d09439;
+  --color-gold-500: #bd7d2a;
+  --color-gold-600: #9e6420;
+  --color-gold-700: #7c4c19;
+  --color-gold-800: #5b3713;
+  --color-gold-950: #1b0e04;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    font-family: var(--font-sans);
+    background-color: #0b0f19; /* Default to deep luxury charcoal background */
+    color: #f1f5f9;
+  }
+}
+
+/* Custom scrollbar to keep layout premium */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0b0f19;
+}
+::-webkit-scrollbar-thumb {
+  background: #272e3f;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #bd7d2a;
+}
+
