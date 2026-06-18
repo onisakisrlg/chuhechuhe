@@ -57,7 +57,7 @@ export default function Footer({ lang }: FooterProps) {
               </p>
               <p className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-gold-400/80 shrink-0" />
-                <span>info@hatsukachuka.co.jp</span>
+                <span>hanxiao1948@gmail.com</span>
               </p>
             </div>
           </div>

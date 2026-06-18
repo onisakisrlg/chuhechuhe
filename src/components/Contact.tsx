@@ -147,7 +147,7 @@ export default function Contact({ lang }: ContactProps) {
               <div className="space-y-4 font-sans text-xs sm:text-sm text-slate-300">
                 <div className="flex items-center gap-3">
                   <Mail className="w-4 h-4 text-gold-400 shrink-0" />
-                  <span>info@hatsukachuka.co.jp</span>
+                  <span>hanxiao1948@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="w-4 h-4 text-gold-400 shrink-0" />
