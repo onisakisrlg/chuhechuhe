@@ -41,7 +41,7 @@ export default function Footer({ lang }: FooterProps) {
                   株式会社初禾
                 </span>
                 <span className="font-sans text-[8px] tracking-wider text-gold-400/80 uppercase font-medium mt-1">
-                  HATSUKA CO., LTD.
+                  HATSUNE CO., LTD.
                 </span>
               </div>
             </div>
@@ -134,7 +134,7 @@ export default function Footer({ lang }: FooterProps) {
 
         {/* Cohesive copyright line */}
         <div className="pt-8 border-t border-slate-900/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-slate-600">
-          <p>© 2026 株式会社初禾 (Hatsuka Co., Ltd.). {t.footerRights}</p>
+          <p>© 2026 株式会社初禾 (Hatsune Co., Ltd.). {t.footerRights}</p>
           <div className="flex gap-4">
             <span className="hover:text-slate-500 transition-colors cursor-pointer">プライバシーポリシー</span>
             <span>•</span>

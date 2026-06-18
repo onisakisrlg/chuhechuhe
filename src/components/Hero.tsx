@@ -34,7 +34,7 @@ export default function Hero({ lang }: HeroProps) {
       <div className="absolute inset-0 z-0">
         <img
           src={bgImage}
-          alt="Hatsuka Corporate Luxury Background"
+          alt="Hatsune Corporate Luxury Background"
           className="w-full h-full object-cover scale-105 select-none"
           referrerPolicy="no-referrer"
         />

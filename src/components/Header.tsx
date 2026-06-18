@@ -94,7 +94,7 @@ export default function Header({ lang, setLang }: HeaderProps) {
                 株式会社初禾
               </span>
               <span className="font-sans text-[9px] tracking-wider text-gold-400/80 uppercase font-medium mt-1">
-                HATSUKA CO., LTD.
+                HATSUNE CO., LTD.
               </span>
             </div>
           </div>
