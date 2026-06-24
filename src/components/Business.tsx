@@ -5,7 +5,7 @@ import { Language, translations } from '../data/translations';
 
 // Import our beautiful custom generated assets
 import brandImg from '../assets/images/brand_items_card_1781505260734.jpg';
-import metalsImg from '../assets/images/precious_metals_card_1781505276035.jpg';
+import metalsImg from '../assets/images/precious_metals_clean_1782293843425.jpg';
 import accessImg from '../assets/images/accessories_card_1781505409659.jpg';
 
 interface BusinessProps {

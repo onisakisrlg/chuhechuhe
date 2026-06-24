@@ -232,7 +232,7 @@ export const translations = {
 
     contactTitle: "联系我们",
     contactSubtitle: "GET IN TOUCH",
-    contactDesc: "如果您有国际贸易业务合作意向、批零大宗协议或者大牌估价质检的需求，欢迎随时填写下方留言表单，我们将于2个工作日内与您取得联系。",
+    contactDesc: "如果您有国际贸易业务合作意向、批零大宗协议或者名牌估价质检的需求，欢迎随时通过电子邮件联系我们，我们将于2个工作日内进行解答。",
     formName: "客户姓名",
     formCompany: "公司名称 (选填)",
     formEmail: "电子邮箱",
